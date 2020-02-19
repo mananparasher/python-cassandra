@@ -1,0 +1,4 @@
+Flask
+Flask-CQLAlchemy
+flask_cassandra
+cassandra-driver
